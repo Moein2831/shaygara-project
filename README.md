@@ -1,4 +1,4 @@
-# shaygara-project
+# object oriented programming-project
 management of mental health of football players
 economic
 coach
@@ -36,13 +36,21 @@ SP                  sports psychologist
 *numerical domain for each symbol
 
 MHF : 1 to 32 human
+
 E : increase income : 2 :team and peronal
+
 C : 1 to 10 or more 
+
 FT : 2 : a club and international
+
 TQ : passing,shooting,defending,team working,keeping the ball
+
 PL : improve relationships :with family,another people,with self
+
 S : ?
+
 p : 2 :inside the ground , off the ground 
+
 SP : 5  ways to refer :personal office,hospital,club,home,online
 
 ************************************************************************************************************
@@ -57,9 +65,12 @@ EX) C == FT == TQ
 *Suggestions and solutions :
 
 1 - Holding psychological skills training classes
+
 2 - Sending motivational messages
+
 3 - Measurement of blood pressure and heart rate
-4 - 
+
+4 - Performing periodic mental health tests
 
 ************************************************************************************************************
 
