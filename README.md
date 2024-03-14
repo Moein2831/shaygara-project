@@ -55,6 +55,7 @@ EX) C == FT == TQ
 ************************************************************************************************************    
 
 *Suggestions and solutions :
+
 1 - Holding psychological skills training classes
 2 - Sending motivational messages
 3 - Measurement of blood pressure and heart rate
