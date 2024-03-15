@@ -1,4 +1,5 @@
 # object oriented programming-project
+*mogram
 management of mental health of football players
 economic
 coach
